@@ -1,6 +1,8 @@
 # GAME_PROGRAM-EX--2
 
-# Create a player movement using character, collectable, player health and score 
+# EX 2 : Create a player movement using character, collectable, player health and score 
+# NAME : V M KAVIYA
+# REGISTER NUMBER : 212224040154
 # Aim
 
 Create a playable third-person character in Unreal Engine that can move and run, collect coin-like collectibles, track a Score and Player Health, and display both on-screen (UI). 
